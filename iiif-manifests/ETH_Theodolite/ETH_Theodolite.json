@@ -111,16 +111,6 @@
     {
       "label": {
         "@none": [
-        ]
-      },
-      "value": {
-        "@none": [
-        ]
-      }
-    },
-    {
-      "label": {
-        "@none": [
           "Model Licence"
         ]
       },
@@ -202,17 +192,6 @@
         ]
       }
     },
-    {
-      "label": {
-        "@none": [
-          "Paradata"
-        ]
-      },
-      "value": {
-        "@none": [
-        ]
-      }
-    }
   ],
   "attribution": "Provided by Christian Felsner, ETH Zurich",
   "thumbnail": [

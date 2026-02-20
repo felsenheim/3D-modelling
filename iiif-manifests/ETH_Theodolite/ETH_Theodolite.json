@@ -99,68 +99,12 @@
     {
       "label": {
         "@none": [
-          "Object type"
-        ]
-      },
-      "value": {
-        "@none": [
-        ]
-      }
-    },
-       {
-      "label": {
-        "@none": [
-        ]
-      },
-      "value": {
-        "@none": [
-        ]
-      }
-    },
-    {
-      "label": {
-        "@none": [
           "etheritage"
         ]
       },
       "value": {
         "@none": [
           "<a href=\"https://etheritage.ethz.ch/2023/07/05/brander-theodolit/\">https://etheritage.ethz.ch/2023/07/05/brander-theodolit/<a/>"
-        ]
-      }
-    },
-    {
-      "label": {
-        "@none": [
-          "Location"
-        ]
-      },
-      "value": {
-        "@none": [
-          "Switzerland, Zurich, ETH Zurich, Collection of Scientific Instruments and Teaching Aids"
-        ]
-      }
-    },
-    {
-      "label": {
-        "@none": [
-          "Location Detail"
-        ]
-      },
-      "value": {
-        "@none": [
-        ]
-      }
-    },
-    {
-      "label": {
-        "@none": [
-          "Location GoogleMaps"
-        ]
-      },
-      "value": {
-        "@none": [
-          "<a href=\"https://www.google.com/maps/place/Tempio+di+Hera+I/@40.420171,15.005844,414m/data=!3m1!1e3!4m6!3m5!1s0x133bfd00394bf31b:0x35da119cfad73fa3!8m2!3d40.4192898!4d15.0053803!16s%2Fg%2F11vwvjhhqh?hl=en-US&entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D\">https://www.google.com/maps/place/Tempio+di+Hera+I/@40.420171,15.005844,414m/data=!3m1!1e3!4m6!3m5!1s0x133bfd00394bf31b:0x35da119cfad73fa3!8m2!3d40.4192898!4d15.0053803!16s%2Fg%2F11vwvjhhqh?hl=en-US&entry=ttu&g_ep=EgoyMDI1MDUwNy4wIKXMDSoASAFQAw%3D%3D<a/>"
         ]
       }
     },

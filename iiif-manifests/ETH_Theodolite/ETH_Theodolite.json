@@ -171,18 +171,6 @@
     {
       "label": {
         "@none": [
-          "Creator Affiliation"
-        ]
-      },
-      "value": {
-        "@none": [
-          "ETH Zurich"
-        ]
-      }
-    },
-    {
-      "label": {
-        "@none": [
           "Creation Time Span"
         ]
       },

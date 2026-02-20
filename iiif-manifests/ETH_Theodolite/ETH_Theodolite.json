@@ -128,7 +128,7 @@
       },
       "value": {
         "@none": [
-          "Christian Felsner"
+          "Georg Friedrich Brander"
         ]
       }
     },
@@ -152,7 +152,7 @@
       },
       "value": {
         "@none": [
-          "Blender 5.0"
+          "Agisoft Metashape, Cinema 4D, 3D-Coat"
         ]
       }
     },
@@ -164,7 +164,7 @@
       },
       "value": {
         "@none": [
-          "Christian Felsner"
+          "ikonaut"
         ]
       }
     },
@@ -196,7 +196,7 @@
   "attribution": "Provided by Christian Felsner, ETH Zurich",
   "thumbnail": [
     {
-      "id": "https://felsneheim.github.io/3D-modelling/iiif_manifests/ETH_Theodolite/thumb.png",
+      "id": "https://felsenheim.github.io/3D-modelling/iiif_manifests/ETH_Theodolite/thumb.png",
       "type": "Image"
     }
   ]

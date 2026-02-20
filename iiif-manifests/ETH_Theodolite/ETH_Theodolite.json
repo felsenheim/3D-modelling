@@ -56,7 +56,7 @@
       },
       "value": {
         "@none": [
-          "Old Hera Temple at Paestum"
+          "Theodolite"
         ]
       }
     },
@@ -68,7 +68,7 @@
       },
       "value": {
         "@none": [
-          "This 3D model is a simplified version of the Old Hera Temple at Paestum. It is intended for learning purposes."
+          "Der digitalisierte Theodolit wird aufgrund vergleichbarer Objekte auf ca. 1752 datiert. Brander hat die Entwicklung von Theodoliten über 30 Jahre lang entscheidend geprägt. Theodoliten dienten der Landvermessung, wurden aber auch für astronomische Messungen eingesetzt. Mit diesem Theodolit konnten Horizontal- und Vertikalwinkel bestimmt werden. Der Theodolit ist mit einem zweilinsigen Kepler-Fernrohr ausgestattet, hat aber eine zusätzliche leere Halterung (Annotation 4 im 3D-Modell). Dort könnte ein zweites Fernrohr für Rückwärtsvisuren befestigt werden. Das Kepler-Fernrohr kombiniert zwei Sammellinsen unterschiedlicher Brennweiten und wurde sowohl für astronomische als auch für geodätische Vermessungen verwendet.4 Auch eine Libelle sowie die Fussschrauben fehlen bei diesem Theodolit."
         ]
       }
     },
@@ -80,7 +80,7 @@
       },
       "value": {
         "@none": [
-          "The 3D model was created during a class on 3D modeling for archaeologists taught at the University of Basel in the spring semester 2025. A very limited amount of time was spent to build the model to illustrate what is possible for beginners without any prior knowledge of the software Blender. The focus of the class was more on the creation of paradata, metadata, and of a IIIF manifest according to the current recommendations of the IIIF 3D TSG group than on delivering a final 3D model of good quality. Another important aim of this course was to show students how they can deploy and view their 3D model."
+            "This is an excersices to get used to the IIIF manifest."
         ]
       }
     },
@@ -92,7 +92,7 @@
       },
       "value": {
         "@none": [
-          "Old Hera Temple at Paestum"
+          "Theodolite"
         ]
       }
     },
@@ -104,31 +104,28 @@
       },
       "value": {
         "@none": [
-          "Temple"
         ]
       }
     },
        {
       "label": {
         "@none": [
-          "Wikipedia"
         ]
       },
       "value": {
         "@none": [
-          "<a href=\"https://de.wikipedia.org/wiki/Paestum#Tempel/\">https://de.wikipedia.org/wiki/Paestum#Tempel<a/>"
         ]
       }
     },
     {
       "label": {
         "@none": [
-          "Official website"
+          "etheritage"
         ]
       },
       "value": {
         "@none": [
-          "<a href=\"https://museopaestum.cultura.gov.it/\">https://museopaestum.cultura.gov.it/<a/>"
+          "<a href=\"https://etheritage.ethz.ch/2023/07/05/brander-theodolit/\">https://etheritage.ethz.ch/2023/07/05/brander-theodolit/<a/>"
         ]
       }
     },
@@ -140,7 +137,7 @@
       },
       "value": {
         "@none": [
-          "Paestum"
+          "Switzerland, Zurich, ETH Zurich, Collection of Scientific Instruments and Teaching Aids"
         ]
       }
     },
@@ -152,7 +149,6 @@
       },
       "value": {
         "@none": [
-          "Sanctuary"
         ]
       }
     },
@@ -171,12 +167,10 @@
     {
       "label": {
         "@none": [
-          "Location Pleiades"
         ]
       },
       "value": {
         "@none": [
-          "<a href=\"https://pleiades.stoa.org/places/442733\">https://pleiades.stoa.org/places/442733<a/>"
         ]
       }
     },
@@ -200,7 +194,7 @@
       },
       "value": {
         "@none": [
-          "Flurin Jegge"
+          "Christian Felsner"
         ]
       }
     },
@@ -212,7 +206,7 @@
       },
       "value": {
         "@none": [
-          "University of Basel"
+          "ETH Zurich"
         ]
       }
     },
@@ -224,7 +218,7 @@
       },
       "value": {
         "@none": [
-          "Blender 4.4"
+          "Blender 5.0"
         ]
       }
     },
@@ -236,7 +230,7 @@
       },
       "value": {
         "@none": [
-          "Flurin Jegge"
+          "Christian Felsner"
         ]
       }
     },
@@ -248,7 +242,7 @@
       },
       "value": {
         "@none": [
-          "University of Basel"
+          "ETH Zurich"
         ]
       }
     },
@@ -260,7 +254,7 @@
       },
       "value": {
         "@none": [
-          "2025-02-15 — 2025-05-12"
+          "2026-02-20 — 2025-02-20"
         ]
       }
     },
@@ -272,15 +266,14 @@
       },
       "value": {
         "@none": [
-          "<a href=\"https://gautschr.github.io/3D-modelling/paradata/Paradata_of_the_Old_Hera_Temple_at_Paestum.pdf\">Paradata of the Old Hera Temple at Paestum<a/>"
         ]
       }
     }
   ],
-  "attribution": "Provided by Flurin Jegge",
+  "attribution": "Provided by Christian Felsner, ETH Zurich",
   "thumbnail": [
     {
-      "id": "https://gautschr.github.io/3D-modelling/iiif_manifests/herapaestum/thumb.png",
+      "id": "https://felsneheim.github.io/3D-modelling/iiif_manifests/ETH_Theodolite/thumb.png",
       "type": "Image"
     }
   ]
